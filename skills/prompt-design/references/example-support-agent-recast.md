@@ -5,7 +5,7 @@ command register. The recast applies the doctrine of the parent SKILL.md — har
 constraints kept hard, reasons only where judgment lives, guardrails vs. scaffolding,
 registers separated, apparatus scaled to scope.
 
-This file is original to the prompt-engineering skill. The worked-example *format*
+This file is original to the prompt-design skill. The worked-example *format*
 (text, recast, item-by-item changelog) is modeled on the worked example in
 `intrinsic-prompt-design` (MIT, Bogdan Gheorghiu); the content and the doctrine applied
 are this skill's, not that skill's. Self-contained: nothing here requires any specific

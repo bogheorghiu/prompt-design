@@ -1,6 +1,6 @@
 # Prompt Design
 
-A single skill, `prompt-engineering`, for designing, revising, evaluating and debugging prompt
+A single skill, `prompt-design`, for designing, revising, evaluating and debugging prompt
 artifacts for any model: system prompts and personas, agent and subagent definitions, skills and
 their routing descriptions, rule files, tool and output contracts, few-shot banks, graders and
 rubrics, and one-shot requests.
@@ -22,7 +22,7 @@ artifact with a deployment:
 - **It does not invent model facts.** Claims about a model's capabilities or a harness's limits are
   verified, marked as common knowledge, or marked as assumed.
 
-Invoke it as `/prompt-design:prompt-engineering <your request>`, or let Claude pick it up when you
+Invoke it as `/prompt-design:prompt-design <your request>`, or let Claude pick it up when you
 ask for help with a prompt.
 
 ## Install

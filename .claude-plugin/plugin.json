@@ -1,7 +1,7 @@
 {
   "name": "prompt-design",
   "displayName": "Prompt Design",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Design, revise, evaluate and debug prompt artifacts - system prompts, agent and skill definitions, rule files, tool contracts, graders - for any model. Asks for the target model, delivery context and objective when they are missing, and repairs failing prompts from their actual outputs.",
   "author": {
     "name": "Bogdan Gheorghiu"
