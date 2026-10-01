@@ -25,6 +25,15 @@ artifact with a deployment:
 Invoke it as `/prompt-design:prompt-engineering <your request>`, or let Claude pick it up when you
 ask for help with a prompt.
 
+## Install
+
+In Claude Code, this repository is also a plugin marketplace:
+
+```
+/plugin marketplace add bogheorghiu/prompt-design
+/plugin install prompt-design@prompt-design
+```
+
 For a quick polish of a one-off chat prompt, a plain rewriting skill is faster (about a third of the
 time in testing); this one is built for prompts that run many times, run unattended, or are
 consumed by code.
@@ -56,3 +65,5 @@ requirement that changes the answer — a small set (three cases in all), so rea
 ## License
 
 MIT — see `LICENSE`.
+
+Written by Bogdan Gheorghiu with Claude (Anthropic).
