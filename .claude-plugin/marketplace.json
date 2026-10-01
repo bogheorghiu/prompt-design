@@ -1,0 +1,14 @@
+{
+  "name": "prompt-design",
+  "description": "Marketplace for the prompt-design plugin: design, revise and debug prompts that run repeatedly or unattended.",
+  "owner": {
+    "name": "Bogdan Gheorghiu"
+  },
+  "plugins": [
+    {
+      "name": "prompt-design",
+      "source": "./",
+      "description": "Design, revise, evaluate and debug prompt artifacts - system prompts, agent and skill definitions, rule files, tool contracts, graders - for any model."
+    }
+  ]
+}
