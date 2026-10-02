@@ -1,7 +1,7 @@
 {
   "name": "prompt-design",
   "displayName": "Prompt Design",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Design, revise, evaluate and debug prompt artifacts - system prompts, agent and skill definitions, rule files, tool contracts, graders - for any model. Asks for the target model, delivery context and objective when they are missing, and repairs failing prompts from their actual outputs.",
   "author": {
     "name": "Bogdan Gheorghiu"
@@ -9,6 +9,7 @@
   "homepage": "https://github.com/bogheorghiu/prompt-design",
   "repository": "https://github.com/bogheorghiu/prompt-design",
   "license": "MIT",
+  "keywords": ["prompt-engineering", "system-prompts", "agents", "skills", "rule-files", "tool-contracts", "evals", "prompt-debugging"],
   "icon": "./.claude-plugin/icon.png",
   "supportUrl": "https://github.com/bogheorghiu/prompt-design/issues",
   "documentationUrl": "https://github.com/bogheorghiu/prompt-design#readme",
