@@ -1,5 +1,5 @@
 ---
-name: prompt-engineering
+name: prompt-design
 description: >-
   Use when designing, revising, evaluating, or debugging any prompt artifact —
   a one-shot request, system or project instruction, rule file, agent or skill
