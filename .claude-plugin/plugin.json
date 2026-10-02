@@ -1,12 +1,15 @@
 {
   "name": "prompt-design",
   "displayName": "Prompt Design",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Design, revise, evaluate and debug prompt artifacts - system prompts, agent and skill definitions, rule files, tool contracts, graders - for any model. Asks for the target model, delivery context and objective when they are missing, and repairs failing prompts from their actual outputs.",
   "author": {
     "name": "Bogdan Gheorghiu"
   },
   "homepage": "https://github.com/bogheorghiu/prompt-design",
   "repository": "https://github.com/bogheorghiu/prompt-design",
-  "license": "MIT"
+  "license": "MIT",
+  "supportUrl": "https://github.com/bogheorghiu/prompt-design/issues",
+  "documentationUrl": "https://github.com/bogheorghiu/prompt-design#readme",
+  "privacyPolicyUrl": "https://github.com/bogheorghiu/prompt-design/blob/main/PRIVACY.md"
 }
